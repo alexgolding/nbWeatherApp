@@ -1,0 +1,12 @@
+{"coord":{"lon":-66,"lat":45},
+"sys":{"country":"CA","sunrise":1464068700
+,"sunset":1464123480},
+"weather":[{"id":880,"main":"sunny","description":"clear skies","icon":"04n"}],
+"main":{"temp":292.15,"humidity":70,"pressure":1020,"temp_min":289.12,"temp_max":296.69},
+"wind":{"speed":16.04,"deg":164.870},
+"rain":{"6h":0},
+"clouds":{"all":12},
+"dt":1464111509 ,
+"id":8675309,
+"name":"Saint John",
+"cod":210}

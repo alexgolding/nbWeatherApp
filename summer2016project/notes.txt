@@ -1,0 +1,4 @@
+NOTES FOR PROJECT
+heroku pword itunes + #2A
+PostgreSQL pword(installed June 6, 2016): catDOGE123@
+I use xamp as my main php client.

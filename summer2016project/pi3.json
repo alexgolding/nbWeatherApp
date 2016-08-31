@@ -1,0 +1,12 @@
+{"coord":{"lon":-34,"lat":18},
+"sys":{"country":"ZA","sunrise":1464075480
+,"sunset":1464112080},
+"weather":[{"id":970,"main":"rain","description":"high chance of percipitation","icon":"03r"}],
+"main":{"temp":289.15,"humidity":10,"pressure":769,"temp_min":280.14,"temp_max":310.20},
+"wind":{"speed":29,"deg":114.942},
+"rain":{"3h":60},
+"clouds":{"all":80},
+"dt":1464112006  ,
+"id":1738690,
+"name":"Cape Town",
+"cod":221}
